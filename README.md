@@ -4,9 +4,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsk66)](https://solved.ac/hsk66)
 
-마지막으로 업데이트: 2024-07-07 09:52:38 (KST)
+마지막으로 업데이트: 2024-07-07 (KST)
 
-목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
+단축키 `Ctrl+F`로 검색 가능
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
