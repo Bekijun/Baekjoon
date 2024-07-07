@@ -10,7 +10,7 @@
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
-| [3003](https://www.acmicpc.net/problem/3003) | A+B | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/337b5d625ec7674cc19c37aca7a1761e1e4e6255/bronze/3003.c) |
+| [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/337b5d625ec7674cc19c37aca7a1761e1e4e6255/bronze/3003.c) |
 | [3733](https://www.acmicpc.net/problem/3733) | A-B | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/337b5d625ec7674cc19c37aca7a1761e1e4e6255/bronze/3733.c) |
 | [4101](https://www.acmicpc.net/problem/4101) | 터렛 | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/337b5d625ec7674cc19c37aca7a1761e1e4e6255/bronze/4101.c) |
 | [4999](https://www.acmicpc.net/problem/4999) | 피보나치 함수 | Bronze V  | [C](https://github.com/Bekijun/summerstudy/blob/337b5d625ec7674cc19c37aca7a1761e1e4e6255/bronze/4999.c) |
