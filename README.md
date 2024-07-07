@@ -17,8 +17,7 @@
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | Bronze V  | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/05XXX/5337.c) |
 | [5341](https://www.acmicpc.net/problem/5341) | Pyramids | Bronze V  | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/05XXX/5341.c) |
 | [5522](https://www.acmicpc.net/problem/5522) | 카드 게임 | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/05XXX/5522.c) |
-| [6840](https://www.acmicpc.net/problem/6840) | 	
-Who is in the middle? | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/06XXX/6840.c) |
+| [6840](https://www.acmicpc.net/problem/6840) | 	Who is in the middle? | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/06XXX/6840.c) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/07XXX/7287.c) |
 | [7891](https://www.acmicpc.net/problem/7891) | Can you add this? | Bronze V  | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/07XXX/7891.c) |
 | [8370](https://www.acmicpc.net/problem/8370) | Plane | Bronze V  | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/08XXX/8370.c) |
