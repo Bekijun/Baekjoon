@@ -11,7 +11,7 @@
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 | Bronze II | [C](https://github.com/Bekijun/summerstudy/blob/c5e5aeb6d2ba9fd35d1251bd473ced9ab5822a62/01XXX/1009.c) |
-| [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | Bronze II | [C](https://github.com/Bekijun/Baekjoon/blob/2b11085e4754c2c830a04c9244ee33188608f66f/01XXX/1152.c) |
+| [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | Bronze II | [C](https://github.com/Bekijun/Baekjoon/blob/80596153d9c4d2bae5b0beecbb3ac9ddf9073594/01XXX/1152.c) |
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/0e947d68adabf20b19ae8d0b08df57ae73f38e7d/03XXX/3003.c) |
 | [3733](https://www.acmicpc.net/problem/3733) | Shares | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/03XXX/3733.c) |
 | [4101](https://www.acmicpc.net/problem/4101) | 크냐? | Bronze V | [C](https://github.com/Bekijun/summerstudy/blob/764755ec9c9f4d9c9ca094c91751392a4479a7d8/04XXX/4101.c) |
