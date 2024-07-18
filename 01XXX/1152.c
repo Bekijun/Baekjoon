@@ -1,23 +1,19 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
-    char s[1000001];
+char a[1000005];
 
-	int res = 1;
+int main(){
+    int ans = 0;
 
-	scanf("%[^\n]", s);
+    scanf("%[^\n]s", a);
 
-	if (strlen(s) == 1 && s[0] == ' ') {
-		printf("0");
-		return 0;
-	}
+    if(a[0] != ' ') ans++;
 
-	for (int i = 1; i < strlen(s) - 1; i++) {
-		if (s[i] == ' ') res++;
-	}
+    for(int i = 1; i < strlen(a); i++)
+        if(a[i-1] == ' ' && a[i] != ' ') ans++;
 
-	printf("%d", res);
+    printf("%d",ans);
 
-	return 0;
+    return 0;
 }
